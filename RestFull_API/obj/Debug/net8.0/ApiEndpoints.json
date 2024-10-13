@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "StockSense_DotNET_API.Controllers.CoursesController",
+    "Method": "Index",
+    "RelativePath": "api/Courses/getAllCourses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockSense_DotNET_API.Controllers.StudentController",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/Student/getAllStudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
