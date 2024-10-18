@@ -89,3 +89,4 @@ C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\RestFull_API\obj\Debug\net
 C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\RestFull_API\obj\Debug\net8.0\scopedcss\projectbundle\StockSense_DotNET_API.bundle.scp.css
 C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\RestFull_API\obj\Debug\net8.0\StockSense_DotNET_API.genruntimeconfig.cache
 C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\RestFull_API\obj\Debug\net8.0\ref\StockSense_DotNET_API.dll
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\RestFull_API\obj\Debug\net8.0\StockSense_DotNET_API.sourcelink.json
