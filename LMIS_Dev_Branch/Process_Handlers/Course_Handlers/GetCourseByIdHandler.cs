@@ -8,7 +8,7 @@ namespace LMIS_Dev_Branch.Process_Handler.Course_Handlers
         private List<IModel> ReturnModel { get; set; }
         private string CourseID { get; set; }
 
-      
+
         public GetCourseByIdHandler(string courseID)
         {
             this.CourseID = courseID;
@@ -29,7 +29,7 @@ namespace LMIS_Dev_Branch.Process_Handler.Course_Handlers
             }
         }
         public List<IModel> GetModel()
-        { 
+        {
             return ReturnModel;
         }
     }

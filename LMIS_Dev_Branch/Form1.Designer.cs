@@ -38,6 +38,7 @@
             enrollmentsToolStripMenuItem = new ToolStripMenuItem();
             enrollStudentToolStripMenuItem = new ToolStripMenuItem();
             viewEnrollmentsToolStripMenuItem = new ToolStripMenuItem();
+            adminDashboardToolStripMenuItem = new ToolStripMenuItem();
             groupBox1 = new GroupBox();
             groupBox4 = new GroupBox();
             label4 = new Label();
@@ -52,6 +53,7 @@
             dateTimePicker1 = new DateTimePicker();
             groupBox2 = new GroupBox();
             dataGridView1 = new DataGridView();
+            openDashboardToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             groupBox1.SuspendLayout();
             groupBox4.SuspendLayout();
@@ -62,7 +64,8 @@
             // 
             // menuStrip1
             // 
-            menuStrip1.Items.AddRange(new ToolStripItem[] { coursesToolStripMenuItem, studentsToolStripMenuItem, enrollmentsToolStripMenuItem });
+            menuStrip1.ImageScalingSize = new Size(24, 24);
+            menuStrip1.Items.AddRange(new ToolStripItem[] { coursesToolStripMenuItem, studentsToolStripMenuItem, enrollmentsToolStripMenuItem, adminDashboardToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
             menuStrip1.Size = new Size(1144, 24);
@@ -100,14 +103,14 @@
             // registerStudentToolStripMenuItem
             // 
             registerStudentToolStripMenuItem.Name = "registerStudentToolStripMenuItem";
-            registerStudentToolStripMenuItem.Size = new Size(180, 22);
+            registerStudentToolStripMenuItem.Size = new Size(160, 22);
             registerStudentToolStripMenuItem.Text = "Register Student";
             registerStudentToolStripMenuItem.Click += registerStudentToolStripMenuItem_Click;
             // 
             // findStudentsToolStripMenuItem
             // 
             findStudentsToolStripMenuItem.Name = "findStudentsToolStripMenuItem";
-            findStudentsToolStripMenuItem.Size = new Size(180, 22);
+            findStudentsToolStripMenuItem.Size = new Size(160, 22);
             findStudentsToolStripMenuItem.Text = "Find Students";
             // 
             // enrollmentsToolStripMenuItem
@@ -120,15 +123,23 @@
             // enrollStudentToolStripMenuItem
             // 
             enrollStudentToolStripMenuItem.Name = "enrollStudentToolStripMenuItem";
-            enrollStudentToolStripMenuItem.Size = new Size(180, 22);
+            enrollStudentToolStripMenuItem.Size = new Size(165, 22);
             enrollStudentToolStripMenuItem.Text = "Enroll Student";
             enrollStudentToolStripMenuItem.Click += enrollStudentToolStripMenuItem_Click;
             // 
             // viewEnrollmentsToolStripMenuItem
             // 
             viewEnrollmentsToolStripMenuItem.Name = "viewEnrollmentsToolStripMenuItem";
-            viewEnrollmentsToolStripMenuItem.Size = new Size(180, 22);
+            viewEnrollmentsToolStripMenuItem.Size = new Size(165, 22);
             viewEnrollmentsToolStripMenuItem.Text = "View Enrollments";
+            // 
+            // adminDashboardToolStripMenuItem
+            // 
+            adminDashboardToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { openDashboardToolStripMenuItem });
+            adminDashboardToolStripMenuItem.Name = "adminDashboardToolStripMenuItem";
+            adminDashboardToolStripMenuItem.Size = new Size(115, 20);
+            adminDashboardToolStripMenuItem.Text = "Admin Dashboard";
+            adminDashboardToolStripMenuItem.Click += adminDashboardToolStripMenuItem_Click;
             // 
             // groupBox1
             // 
@@ -255,8 +266,16 @@
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(22, 22);
             dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 62;
             dataGridView1.Size = new Size(709, 357);
             dataGridView1.TabIndex = 0;
+            // 
+            // openDashboardToolStripMenuItem
+            // 
+            openDashboardToolStripMenuItem.Name = "openDashboardToolStripMenuItem";
+            openDashboardToolStripMenuItem.Size = new Size(180, 22);
+            openDashboardToolStripMenuItem.Text = "Open Dashboard";
+            openDashboardToolStripMenuItem.Click += openDashboardToolStripMenuItem_Click;
             // 
             // frmLMIS
             // 
@@ -309,5 +328,7 @@
         private ToolStripMenuItem viewEnrollmentsToolStripMenuItem;
         private Label label4;
         private Label label3;
+        private ToolStripMenuItem adminDashboardToolStripMenuItem;
+        private ToolStripMenuItem openDashboardToolStripMenuItem;
     }
 }

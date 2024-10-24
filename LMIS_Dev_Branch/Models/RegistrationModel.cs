@@ -4,7 +4,7 @@
     {
         public Student StudentDetails { get; set; }
         public Course CourseDetails { get; set; }
-        public RegistrationModel(Student studentdetails,Course coursedetails)
+        public RegistrationModel(Student studentdetails, Course coursedetails)
         {
             this.StudentDetails = studentdetails;
             this.CourseDetails = coursedetails;

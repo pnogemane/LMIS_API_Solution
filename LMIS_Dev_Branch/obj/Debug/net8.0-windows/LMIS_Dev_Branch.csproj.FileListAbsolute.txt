@@ -19,3 +19,55 @@ C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\
 C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmLMIS.resources
 C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.FrmAddStudent.resources
 C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmEnrol.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.exe
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.deps.json
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.runtimeconfig.json
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.dll
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.pdb
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.Properties.FrmAddCourse.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmLMIS.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.FrmAddStudent.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmEnrol.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.Properties.Resources.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.csproj.GenerateResource.cache
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.AssemblyInfoInputs.cache
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.AssemblyInfo.cs
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.csproj.CoreCompileInputs.cache
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.dll
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\refint\LMIS_Dev_Branch.dll
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.pdb
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.genruntimeconfig.cache
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\ref\LMIS_Dev_Branch.dll
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.AdminDashboard.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ApproveRequestsForm.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ManageTemplatesForm.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ManageUsersForm.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ViewLogsForm.resources
+C:\Users\CASH CRUSADERS NORTH\OneDrive - Networx for Career Development\Desktop\CertifyMe Pro Workspace\NEW LMS FLOW\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.LoginForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.exe
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.deps.json
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.runtimeconfig.json
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.dll
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\bin\Debug\net8.0-windows\LMIS_Dev_Branch.pdb
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.Properties.FrmAddCourse.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ApproveRequestsForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmLMIS.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.FrmAddStudent.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmEnrol.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.LoginForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ManageUsersForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.Properties.Resources.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ViewLogsForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.csproj.GenerateResource.cache
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.AssemblyInfoInputs.cache
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.AssemblyInfo.cs
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.csproj.CoreCompileInputs.cache
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.dll
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\refint\LMIS_Dev_Branch.dll
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.pdb
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.genruntimeconfig.cache
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\ref\LMIS_Dev_Branch.dll
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmAdminDashboard.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmManageTemplatesForm.resources

@@ -13,13 +13,13 @@ namespace LMIS_Dev_Branch.Process_Handlers.Student_Handlers
         }
 
 
-        public void PerformTask() 
+        public void PerformTask()
         {
             // Get Student from database from databases using DB Context
             //Perform Iteration here
             //Populate the content from db onto object collection
         }
-        public List<IModel> GetModel() 
+        public List<IModel> GetModel()
         {
             return ReturnModel;
         }

@@ -7,7 +7,7 @@ namespace LMIS_Dev_Branch.Process_Handler.Course_Handlers
         public List<Course> Courses { get; set; }
         public List<IModel> ReturnModel { get; set; }
 
-        public  GetAllCoursesHandler()
+        public GetAllCoursesHandler()
         {
             ReturnModel = new List<IModel>();
         }

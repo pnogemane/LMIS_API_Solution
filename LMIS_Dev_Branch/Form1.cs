@@ -36,5 +36,16 @@ namespace LMIS_Dev_Branch
             frmEnrol frmEnrol = new frmEnrol();
             frmEnrol.ShowDialog();
         }
+
+        private void adminDashboardToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void openDashboardToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmAdminDashboard frmAdminDashboard = new frmAdminDashboard();
+            frmAdminDashboard.ShowDialog();
+        }
     }
 }
