@@ -6,8 +6,36 @@
       "AbsoluteMoniker": "D:0:0:{282592DE-654A-4E66-AFBE-8A05BBB250C3}|..\\LMIS_Dev_Branch\\LMIS_Dev_Branch.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\lmis_dev_branch\\process_handlers\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{282592DE-654A-4E66-AFBE-8A05BBB250C3}|..\\LMIS_Dev_Branch\\LMIS_Dev_Branch.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\lmis_dev_branch\\process_handlers\\course_handlers\\getcoursebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282592DE-654A-4E66-AFBE-8A05BBB250C3}|..\\LMIS_Dev_Branch\\LMIS_Dev_Branch.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\lmis_dev_branch\\frmenrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282592DE-654A-4E66-AFBE-8A05BBB250C3}|..\\LMIS_Dev_Branch\\LMIS_Dev_Branch.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\lmis_dev_branch\\frmenrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282592DE-654A-4E66-AFBE-8A05BBB250C3}|..\\LMIS_Dev_Branch\\LMIS_Dev_Branch.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\lmis_dev_branch\\frmenrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A09B72-B66E-42D7-AF1D-D7972271918B}|StockSense_DotNET_API.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\restfull_api\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A09B72-B66E-42D7-AF1D-D7972271918B}|StockSense_DotNET_API.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1A09B72-B66E-42D7-AF1D-D7972271918B}|StockSense_DotNET_API.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\restfull_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E1A09B72-B66E-42D7-AF1D-D7972271918B}|StockSense_DotNET_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282592DE-654A-4E66-AFBE-8A05BBB250C3}|..\\LMIS_Dev_Branch\\LMIS_Dev_Branch.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\lmis_dev_branch\\process_handlers\\student handlers\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282592DE-654A-4E66-AFBE-8A05BBB250C3}|..\\LMIS_Dev_Branch\\LMIS_Dev_Branch.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\lmis_dev_branch\\process_handlers\\course_handlers\\getallcourseshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282592DE-654A-4E66-AFBE-8A05BBB250C3}|..\\LMIS_Dev_Branch\\LMIS_Dev_Branch.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\lmis_dev_branch\\process_handlers\\student handlers\\addstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282592DE-654A-4E66-AFBE-8A05BBB250C3}|..\\LMIS_Dev_Branch\\LMIS_Dev_Branch.csproj|c:\\users\\phiwo\\desktop\\thando nogemane workspace\\lmis\\lmis_dev_branch\\process_handlers\\iprocesshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,11 +45,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmEnrol.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\frmEnrol.Designer.cs",
+              "RelativeDocumentMoniker": "..\\LMIS_Dev_Branch\\frmEnrol.Designer.cs",
+              "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\frmEnrol.Designer.cs",
+              "RelativeToolTip": "..\\LMIS_Dev_Branch\\frmEnrol.Designer.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAqwI8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:03:13.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\RestFull_API\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\RestFull_API\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:48:18.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEnrol.cs",
+              "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\frmEnrol.cs",
+              "RelativeDocumentMoniker": "..\\LMIS_Dev_Branch\\frmEnrol.cs",
+              "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\frmEnrol.cs",
+              "RelativeToolTip": "..\\LMIS_Dev_Branch\\frmEnrol.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:46:33.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmEnrol.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\frmEnrol.cs",
+              "RelativeDocumentMoniker": "..\\LMIS_Dev_Branch\\frmEnrol.cs",
+              "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\frmEnrol.cs [Design]",
+              "RelativeToolTip": "..\\LMIS_Dev_Branch\\frmEnrol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:46:11.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllCoursesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\Course_Handlers\\GetAllCoursesHandler.cs",
+              "RelativeDocumentMoniker": "..\\LMIS_Dev_Branch\\Process_Handlers\\Course_Handlers\\GetAllCoursesHandler.cs",
+              "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\Course_Handlers\\GetAllCoursesHandler.cs",
+              "RelativeToolTip": "..\\LMIS_Dev_Branch\\Process_Handlers\\Course_Handlers\\GetAllCoursesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:34:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GetCourseByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\Course_Handlers\\GetCourseByIdHandler.cs",
+              "RelativeDocumentMoniker": "..\\LMIS_Dev_Branch\\Process_Handlers\\Course_Handlers\\GetCourseByIdHandler.cs",
+              "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\Course_Handlers\\GetCourseByIdHandler.cs",
+              "RelativeToolTip": "..\\LMIS_Dev_Branch\\Process_Handlers\\Course_Handlers\\GetCourseByIdHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:24:05.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllStudentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\Student Handlers\\GetAllStudentsHandler.cs",
+              "RelativeDocumentMoniker": "..\\LMIS_Dev_Branch\\Process_Handlers\\Student Handlers\\GetAllStudentsHandler.cs",
+              "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\Student Handlers\\GetAllStudentsHandler.cs",
+              "RelativeToolTip": "..\\LMIS_Dev_Branch\\Process_Handlers\\Student Handlers\\GetAllStudentsHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:14:27.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProcessHandler.cs",
+              "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\IProcessHandler.cs",
+              "RelativeDocumentMoniker": "..\\LMIS_Dev_Branch\\Process_Handlers\\IProcessHandler.cs",
+              "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\IProcessHandler.cs",
+              "RelativeToolTip": "..\\LMIS_Dev_Branch\\Process_Handlers\\IProcessHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:11:16.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\Student Handlers\\AddStudentHandler.cs",
+              "RelativeDocumentMoniker": "..\\LMIS_Dev_Branch\\Process_Handlers\\Student Handlers\\AddStudentHandler.cs",
+              "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\Student Handlers\\AddStudentHandler.cs",
+              "RelativeToolTip": "..\\LMIS_Dev_Branch\\Process_Handlers\\Student Handlers\\AddStudentHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:03:43.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\RestFull_API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -29,7 +173,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-06T12:10:10.974Z"
+              "WhenOpened": "2024-11-06T12:10:10.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -39,7 +184,7 @@
               "RelativeDocumentMoniker": "..\\LMIS_Dev_Branch\\Process_Handlers\\Database\\DBContext.cs",
               "ToolTip": "C:\\Users\\phiwo\\Desktop\\Thando Nogemane Workspace\\LMIS\\LMIS_Dev_Branch\\Process_Handlers\\Database\\DBContext.cs",
               "RelativeToolTip": "..\\LMIS_Dev_Branch\\Process_Handlers\\Database\\DBContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T11:44:02.558Z",
               "EditorCaption": ""
