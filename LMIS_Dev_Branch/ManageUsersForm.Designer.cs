@@ -43,8 +43,8 @@
             // 
             dgvUsers.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvUsers.Columns.AddRange(new DataGridViewColumn[] { TextBoxColumn, TextBoxColumn2, ComboBoxColumn, TextBoxColumn3 });
-            dgvUsers.Location = new Point(35, 30);
-            dgvUsers.Margin = new Padding(2, 2, 2, 2);
+            dgvUsers.Location = new Point(21, 30);
+            dgvUsers.Margin = new Padding(2);
             dgvUsers.Name = "dgvUsers";
             dgvUsers.RowHeadersWidth = 62;
             dgvUsers.Size = new Size(472, 240);
@@ -82,7 +82,7 @@
             // 
             btnCreateUser.BackColor = Color.LightGreen;
             btnCreateUser.Location = new Point(511, 30);
-            btnCreateUser.Margin = new Padding(2, 2, 2, 2);
+            btnCreateUser.Margin = new Padding(2);
             btnCreateUser.Name = "btnCreateUser";
             btnCreateUser.Size = new Size(78, 20);
             btnCreateUser.TabIndex = 1;
@@ -94,7 +94,7 @@
             // 
             btnEditUser.BackColor = Color.LightYellow;
             btnEditUser.Location = new Point(511, 54);
-            btnEditUser.Margin = new Padding(2, 2, 2, 2);
+            btnEditUser.Margin = new Padding(2);
             btnEditUser.Name = "btnEditUser";
             btnEditUser.Size = new Size(78, 20);
             btnEditUser.TabIndex = 2;
@@ -105,7 +105,7 @@
             // 
             btnDeleteUser.BackColor = Color.LightCoral;
             btnDeleteUser.Location = new Point(511, 78);
-            btnDeleteUser.Margin = new Padding(2, 2, 2, 2);
+            btnDeleteUser.Margin = new Padding(2);
             btnDeleteUser.Name = "btnDeleteUser";
             btnDeleteUser.Size = new Size(78, 20);
             btnDeleteUser.TabIndex = 3;
@@ -121,7 +121,7 @@
             Controls.Add(btnEditUser);
             Controls.Add(btnCreateUser);
             Controls.Add(dgvUsers);
-            Margin = new Padding(2, 2, 2, 2);
+            Margin = new Padding(2);
             Name = "ManageUsersForm";
             Text = "ManageUsersForm";
             ((System.ComponentModel.ISupportInitialize)dgvUsers).EndInit();

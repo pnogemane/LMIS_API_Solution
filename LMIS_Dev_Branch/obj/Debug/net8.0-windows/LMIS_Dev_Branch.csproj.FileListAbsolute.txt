@@ -71,3 +71,10 @@ C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\
 C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\ref\LMIS_Dev_Branch.dll
 C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmAdminDashboard.resources
 C:\Users\phiwo\Desktop\Thando Nogemane Workspace\Updated\LMIS_API_Solution-main\LMIS_API_Solution-main\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmManageTemplatesForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmAdminDashboard.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ApproveRequestsForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.LoginForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.frmManageTemplatesForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ManageUsersForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.ViewLogsForm.resources
+C:\Users\phiwo\Desktop\Thando Nogemane Workspace\LMIS\LMIS_Dev_Branch\obj\Debug\net8.0-windows\LMIS_Dev_Branch.csproj.AssemblyReference.cache
