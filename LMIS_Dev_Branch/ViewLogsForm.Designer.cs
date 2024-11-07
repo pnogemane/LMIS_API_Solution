@@ -1,6 +1,6 @@
 ﻿namespace LMIS_Dev_Branch
 {
-    partial class ViewLogsForm
+    partial class FrmViewLogsForm
     {
         /// <summary>
         /// Required designer variable.
@@ -40,6 +40,7 @@
             lblUserFilter = new Label();
             cmbUserFilter = new ComboBox();
             btnSearchLogs = new Button();
+            txtSearch = new TextBox();
             ((System.ComponentModel.ISupportInitialize)dgvLogs).BeginInit();
             SuspendLayout();
             // 
@@ -118,7 +119,7 @@
             // lblUserFilter
             // 
             lblUserFilter.AutoSize = true;
-            lblUserFilter.Location = new Point(50, 103);
+            lblUserFilter.Location = new Point(50, 107);
             lblUserFilter.Name = "lblUserFilter";
             lblUserFilter.Size = new Size(90, 25);
             lblUserFilter.TabIndex = 5;
@@ -127,7 +128,7 @@
             // cmbUserFilter
             // 
             cmbUserFilter.FormattingEnabled = true;
-            cmbUserFilter.Location = new Point(50, 143);
+            cmbUserFilter.Location = new Point(50, 147);
             cmbUserFilter.Name = "cmbUserFilter";
             cmbUserFilter.Size = new Size(163, 33);
             cmbUserFilter.TabIndex = 6;
@@ -135,18 +136,27 @@
             // btnSearchLogs
             // 
             btnSearchLogs.BackColor = Color.LightBlue;
-            btnSearchLogs.Location = new Point(394, 55);
+            btnSearchLogs.Location = new Point(417, 144);
             btnSearchLogs.Name = "btnSearchLogs";
-            btnSearchLogs.Size = new Size(112, 34);
+            btnSearchLogs.Size = new Size(112, 40);
             btnSearchLogs.TabIndex = 7;
             btnSearchLogs.Text = "Search Logs";
             btnSearchLogs.UseVisualStyleBackColor = false;
             // 
-            // ViewLogsForm
+            // txtSearch
+            // 
+            txtSearch.Location = new Point(548, 149);
+            txtSearch.Name = "txtSearch";
+            txtSearch.Size = new Size(200, 31);
+            txtSearch.TabIndex = 8;
+            txtSearch.TextChanged += txtSearch_TextChanged;
+            // 
+            // FrmViewLogsForm
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1066, 616);
+            Controls.Add(txtSearch);
             Controls.Add(btnSearchLogs);
             Controls.Add(cmbUserFilter);
             Controls.Add(lblUserFilter);
@@ -155,7 +165,7 @@
             Controls.Add(lblStrtDate);
             Controls.Add(dtpStartDate);
             Controls.Add(dgvLogs);
-            Name = "ViewLogsForm";
+            Name = "FrmViewLogsForm";
             Text = "ViewLogsForm";
             ((System.ComponentModel.ISupportInitialize)dgvLogs).EndInit();
             ResumeLayout(false);
@@ -176,5 +186,6 @@
         private Label lblUserFilter;
         private ComboBox cmbUserFilter;
         private Button btnSearchLogs;
+        private TextBox txtSearch;
     }
 }

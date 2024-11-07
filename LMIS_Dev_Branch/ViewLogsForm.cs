@@ -1,8 +1,8 @@
 ﻿namespace LMIS_Dev_Branch
 {
-    public partial class ViewLogsForm : Form
+    public partial class FrmViewLogsForm : Form
     {
-        public ViewLogsForm()
+        public FrmViewLogsForm()
         {
             InitializeComponent();
         }
@@ -13,6 +13,11 @@
         }
 
         private void dgvLogs_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void txtSearch_TextChanged(object sender, EventArgs e)
         {
 
         }
