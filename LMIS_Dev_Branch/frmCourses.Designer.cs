@@ -43,11 +43,7 @@
             IsAccredited = new DataGridViewTextBoxColumn();
             btnCreateCourse = new Button();
             btnCreateNonAccreditedCourse = new Button();
-            txtCourseName = new TextBox();
-            txtCourseType = new TextBox();
             textBox1 = new TextBox();
-            txtNQFLevel = new TextBox();
-            chkIsAccredited = new CheckBox();
             ((System.ComponentModel.ISupportInitialize)dgvCourses).BeginInit();
             SuspendLayout();
             // 
@@ -181,9 +177,9 @@
             // 
             btnCreateCourse.BackColor = Color.Blue;
             btnCreateCourse.ForeColor = Color.White;
-            btnCreateCourse.Location = new Point(652, 599);
+            btnCreateCourse.Location = new Point(619, 360);
             btnCreateCourse.Name = "btnCreateCourse";
-            btnCreateCourse.Size = new Size(198, 38);
+            btnCreateCourse.Size = new Size(198, 42);
             btnCreateCourse.TabIndex = 9;
             btnCreateCourse.Text = "Create New Course";
             btnCreateCourse.UseVisualStyleBackColor = false;
@@ -201,24 +197,6 @@
             btnCreateNonAccreditedCourse.UseVisualStyleBackColor = false;
             btnCreateNonAccreditedCourse.Click += btnCreateNonAccreditedCourse_Click;
             // 
-            // txtCourseName
-            // 
-            txtCourseName.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtCourseName.Location = new Point(357, 161);
-            txtCourseName.Name = "txtCourseName";
-            txtCourseName.PlaceholderText = "Course Name";
-            txtCourseName.Size = new Size(200, 35);
-            txtCourseName.TabIndex = 11;
-            // 
-            // txtCourseType
-            // 
-            txtCourseType.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtCourseType.Location = new Point(357, 201);
-            txtCourseType.Name = "txtCourseType";
-            txtCourseType.PlaceholderText = "Course Type";
-            txtCourseType.Size = new Size(200, 35);
-            txtCourseType.TabIndex = 12;
-            // 
             // textBox1
             // 
             textBox1.Location = new Point(0, 0);
@@ -226,36 +204,12 @@
             textBox1.Size = new Size(100, 31);
             textBox1.TabIndex = 0;
             // 
-            // txtNQFLevel
-            // 
-            txtNQFLevel.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtNQFLevel.Location = new Point(357, 241);
-            txtNQFLevel.Name = "txtNQFLevel";
-            txtNQFLevel.PlaceholderText = "NQF Level";
-            txtNQFLevel.Size = new Size(200, 35);
-            txtNQFLevel.TabIndex = 13;
-            // 
-            // chkIsAccredited
-            // 
-            chkIsAccredited.AutoSize = true;
-            chkIsAccredited.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            chkIsAccredited.Location = new Point(357, 281);
-            chkIsAccredited.Name = "chkIsAccredited";
-            chkIsAccredited.Size = new Size(235, 31);
-            chkIsAccredited.TabIndex = 14;
-            chkIsAccredited.Text = "Accredited Course";
-            chkIsAccredited.UseVisualStyleBackColor = true;
-            // 
             // frmCourses1
             // 
             AutoScaleDimensions = new SizeF(14F, 27F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightGray;
             ClientSize = new Size(904, 675);
-            Controls.Add(chkIsAccredited);
-            Controls.Add(txtNQFLevel);
-            Controls.Add(txtCourseType);
-            Controls.Add(txtCourseName);
             Controls.Add(btnCreateNonAccreditedCourse);
             Controls.Add(btnCreateCourse);
             Controls.Add(dgvCourses);
@@ -272,6 +226,7 @@
             Name = "frmCourses1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Course Management";
+            Load += frmCourses1_Load;
             ((System.ComponentModel.ISupportInitialize)dgvCourses).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -294,10 +249,6 @@
         private DataGridViewTextBoxColumn IsAccredited;
         private Button btnCreateCourse;
         private Button btnCreateNonAccreditedCourse;
-        private TextBox txtCourseName;
-        private TextBox txtCourseType;
         private TextBox textBox1;
-        private TextBox txtNQFLevel;
-        private CheckBox chkIsAccredited;
     }
 }
