@@ -47,5 +47,17 @@ namespace LMIS_Dev_Branch
             frmAdminDashboard frmAdminDashboard = new frmAdminDashboard();
             frmAdminDashboard.ShowDialog();
         }
+
+        private void openDashboardToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FrmUserPortalMain FrmUserPortalMain = new FrmUserPortalMain();
+            FrmUserPortalMain.ShowDialog();
+        }
+
+        private void loginToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmLoginForm frmLoginForm = new FrmLoginForm();
+            frmLoginForm.ShowDialog();
+        }
     }
 }

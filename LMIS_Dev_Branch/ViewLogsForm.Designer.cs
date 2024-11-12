@@ -1,6 +1,6 @@
 ﻿namespace LMIS_Dev_Branch
 {
-    partial class ViewLogsForm
+    partial class FrmViewLogsForm
     {
         /// <summary>
         /// Required designer variable.
@@ -40,6 +40,7 @@
             lblUserFilter = new Label();
             cmbUserFilter = new ComboBox();
             btnSearchLogs = new Button();
+            txtSearch = new TextBox();
             ((System.ComponentModel.ISupportInitialize)dgvLogs).BeginInit();
             SuspendLayout();
             // 
@@ -47,11 +48,10 @@
             // 
             dgvLogs.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvLogs.Columns.AddRange(new DataGridViewColumn[] { Activity, User, Date, Time });
-            dgvLogs.Location = new Point(35, 134);
-            dgvLogs.Margin = new Padding(2, 2, 2, 2);
+            dgvLogs.Location = new Point(50, 223);
             dgvLogs.Name = "dgvLogs";
             dgvLogs.RowHeadersWidth = 62;
-            dgvLogs.Size = new Size(490, 210);
+            dgvLogs.Size = new Size(700, 350);
             dgvLogs.TabIndex = 0;
             dgvLogs.CellContentClick += dgvLogs_CellContentClick;
             // 
@@ -85,76 +85,78 @@
             // 
             // dtpStartDate
             // 
-            dtpStartDate.Location = new Point(35, 35);
-            dtpStartDate.Margin = new Padding(2, 2, 2, 2);
+            dtpStartDate.Location = new Point(50, 58);
             dtpStartDate.Name = "dtpStartDate";
-            dtpStartDate.Size = new Size(211, 23);
+            dtpStartDate.Size = new Size(300, 31);
             dtpStartDate.TabIndex = 1;
             // 
             // lblStrtDate
             // 
             lblStrtDate.AutoSize = true;
-            lblStrtDate.Location = new Point(35, 13);
-            lblStrtDate.Margin = new Padding(2, 0, 2, 0);
+            lblStrtDate.Location = new Point(50, 21);
             lblStrtDate.Name = "lblStrtDate";
-            lblStrtDate.Size = new Size(58, 15);
+            lblStrtDate.Size = new Size(90, 25);
             lblStrtDate.TabIndex = 2;
             lblStrtDate.Text = "Start Date";
             // 
             // lblEndDate
             // 
             lblEndDate.AutoSize = true;
-            lblEndDate.Location = new Point(384, 13);
-            lblEndDate.Margin = new Padding(2, 0, 2, 0);
+            lblEndDate.Location = new Point(548, 21);
             lblEndDate.Name = "lblEndDate";
-            lblEndDate.Size = new Size(54, 15);
+            lblEndDate.Size = new Size(84, 25);
             lblEndDate.TabIndex = 3;
             lblEndDate.Text = "End Date";
             lblEndDate.Click += lblEndDate_Click;
             // 
             // dateTimePicker1
             // 
-            dateTimePicker1.Location = new Point(384, 35);
-            dateTimePicker1.Margin = new Padding(2, 2, 2, 2);
+            dateTimePicker1.Location = new Point(548, 58);
             dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(211, 23);
+            dateTimePicker1.Size = new Size(300, 31);
             dateTimePicker1.TabIndex = 4;
             // 
             // lblUserFilter
             // 
             lblUserFilter.AutoSize = true;
-            lblUserFilter.Location = new Point(35, 62);
-            lblUserFilter.Margin = new Padding(2, 0, 2, 0);
+            lblUserFilter.Location = new Point(50, 107);
             lblUserFilter.Name = "lblUserFilter";
-            lblUserFilter.Size = new Size(59, 15);
+            lblUserFilter.Size = new Size(90, 25);
             lblUserFilter.TabIndex = 5;
             lblUserFilter.Text = "User Filter";
             // 
             // cmbUserFilter
             // 
             cmbUserFilter.FormattingEnabled = true;
-            cmbUserFilter.Location = new Point(35, 86);
-            cmbUserFilter.Margin = new Padding(2, 2, 2, 2);
+            cmbUserFilter.Location = new Point(50, 147);
             cmbUserFilter.Name = "cmbUserFilter";
-            cmbUserFilter.Size = new Size(115, 23);
+            cmbUserFilter.Size = new Size(163, 33);
             cmbUserFilter.TabIndex = 6;
             // 
             // btnSearchLogs
             // 
             btnSearchLogs.BackColor = Color.LightBlue;
-            btnSearchLogs.Location = new Point(276, 33);
-            btnSearchLogs.Margin = new Padding(2, 2, 2, 2);
+            btnSearchLogs.Location = new Point(417, 144);
             btnSearchLogs.Name = "btnSearchLogs";
-            btnSearchLogs.Size = new Size(78, 25);
+            btnSearchLogs.Size = new Size(112, 40);
             btnSearchLogs.TabIndex = 7;
             btnSearchLogs.Text = "Search Logs";
             btnSearchLogs.UseVisualStyleBackColor = false;
             // 
-            // ViewLogsForm
+            // txtSearch
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            txtSearch.Location = new Point(548, 149);
+            txtSearch.Name = "txtSearch";
+            txtSearch.Size = new Size(200, 31);
+            txtSearch.TabIndex = 8;
+            txtSearch.TextChanged += txtSearch_TextChanged;
+            // 
+            // FrmViewLogsForm
+            // 
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(746, 370);
+            ClientSize = new Size(1066, 616);
+            Controls.Add(txtSearch);
             Controls.Add(btnSearchLogs);
             Controls.Add(cmbUserFilter);
             Controls.Add(lblUserFilter);
@@ -163,8 +165,7 @@
             Controls.Add(lblStrtDate);
             Controls.Add(dtpStartDate);
             Controls.Add(dgvLogs);
-            Margin = new Padding(2, 2, 2, 2);
-            Name = "ViewLogsForm";
+            Name = "FrmViewLogsForm";
             Text = "ViewLogsForm";
             ((System.ComponentModel.ISupportInitialize)dgvLogs).EndInit();
             ResumeLayout(false);
@@ -185,5 +186,6 @@
         private Label lblUserFilter;
         private ComboBox cmbUserFilter;
         private Button btnSearchLogs;
+        private TextBox txtSearch;
     }
 }
